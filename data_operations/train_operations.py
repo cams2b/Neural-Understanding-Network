@@ -7,7 +7,6 @@ import numpy as np
 
 import torchvision.transforms as transforms
 from data_operations.augmentation import *
-from data_operations.image_utils import *
 from config import config
 
 
