@@ -1,4 +1,8 @@
 # Neural-Understanding-Network
+
+![This is an image](/figures/NUN_architecture.png)
+
+
 Pytorch implementation of the Neural Understanding Network
 
 RVO data files:
