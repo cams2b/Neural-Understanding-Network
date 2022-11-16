@@ -3,14 +3,15 @@
 ![This is an image](/figures/NUN_architecture.png)
 
 
-Pytorch implementation of the Neural Understanding Network
+This repository contains the Pytorch implementation of the Neural Understanding Network, as well as several visualization strategies discussed in our paper.
 
-RVO data files:
-Annotations correspond to the directory name: (0) Normal, (1) Central Retinal Vein Occlusion (CRVO), (2) Branch Retinal Vein Occlusion. Training data is split into multiple .rar files for each category.
+## Requirements
+- Pytorch >= 1.10
+- torch-geometric >= 2.0.4
 
 ## Data access
 
-If you are interested in obtaining access to the images used in our study please email: cab347@pitt.edu
+RVO data files: If you are interested in obtaining access to the images used in our study please email: cab347@pitt.edu
 
 ## Citation
 
