@@ -15,7 +15,7 @@ RVO data files: If you are interested in obtaining access to the images used in 
 
 ## Citation
 
-If you find any of the code useful please cite our article
+If you find any of the code useful please cite our article published in Medical Physics.
 
 
 ```
